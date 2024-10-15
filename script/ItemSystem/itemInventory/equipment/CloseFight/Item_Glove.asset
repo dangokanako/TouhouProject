@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e1dad5d4c255499cdf17f0ef5f06f, type: 3}
+  m_Name: Item_Glove
+  m_EditorClassIdentifier: 
+  itemSlot: 4
+  itemId: 25
+  itemName: "\u7F8E\u94C3\u7684\u521D\u7EA7\u62F3\u5957"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0, g: 0.4668119, b: 1, a: 1}
+  itemImage: {fileID: 239253318, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 100
+  itemInfoText: "\u6750\u6599\u3002\\n\u88C5\u5907\u3002\\n\u6301\u6709\u65F6\u63D0\u53475\u70B9\u8FD1\u6218\u653B\u51FB\uFF0C\u5E76\u63D0\u4F9B20%\u8FD1\u6218\u95EA\u907F\u3002"
+  itemRemarkText: "\u201C\u9601\u4E0B\u82E5\u662F\u4E0D\u61C2\u7B26\u5361\u6218\u6597\uFF0C\u5728\u4E0B\u4E5F\u7565\u61C2\u4E00\u4E9B\u62F3\u811A\u201D\u2014\u2014\u7EA2\u7F8E\u94C3"
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 1
+  isUseImmediately: 0
+  hasQuality: 1
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

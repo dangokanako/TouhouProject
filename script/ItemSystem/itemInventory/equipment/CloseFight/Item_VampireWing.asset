@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbad5a9246495194ab85de8806b430ef, type: 3}
+  m_Name: Item_VampireWing
+  m_EditorClassIdentifier: 
+  itemSlot: 3
+  itemId: 72
+  itemName: "\u5438\u8840\u9B3C\u4E4B\u7FFC"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.70980394, g: 0.17249447, b: 0.14509802, a: 1}
+  itemImage: {fileID: 1610441154, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 100
+  itemInfoText: 
+  itemRemarkText: "\u201C\u5176\u5B9E\u5C31\u662F\u8759\u8760\u7FC5\u8180\u5566\u2026\u2026\"\u2014\u2014\u96FE\u96E8\u9B54\u7406\u6C99"
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 1
+  isUseImmediately: 0
+  hasQuality: 1
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

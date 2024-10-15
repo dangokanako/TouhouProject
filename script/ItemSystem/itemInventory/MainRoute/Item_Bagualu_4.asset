@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf329a78a25a30e47936c08c7c987bde, type: 3}
+  m_Name: Item_Bagualu_4
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 101
+  itemName: "\u300E\u516B\u5366\u7089\u300F"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.9101943, g: 0.37973174, b: 0.9433962, a: 1}
+  itemImage: {fileID: -2089097041, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  price: 1500
+  itemInfoText: "\u6301\u7EED\u65BD\u6CD5\u3002\\n\u6309\u4F4F\u540E\u6D88\u8017\u5927\u91CFSP\u53D1\u5C04\u661F\u661F\u5F39\u5E55\u3002(SP\u6D88\u80172.3/s,\u5F39\u5E55\u53D1\u5C04\u5E73\u5747\u6D88\u80170.06) "
+  itemRemarkText: "\u8C03\u6574\u81F3\u8FC7\u8F7D\u72B6\u6001\u7684\u516B\u5366\u7089\uFF0C\u77ED\u65F6\u95F4\u5185\u53EF\u4EE5\u7206\u53D1\u51FA\u5F3A\u52B2\u7684\u706B\u529B\u3002\u3002\\n\u201C\u6CA1\u84DD\u770B\u6211\u5E72\u4EC0\u4E48\uFF0C\u53C8\u4E0D\u662F\u6211\u7528\u7684\u4F60\u7684\u84DD\u3002\u4E0D\u662F\u4F60\u60F3\u770B\u70DF\u82B1\u7684\u561B\u201D\u2014\u2014\u96FE\u96E8\u9B54\u7406\u6C99"
+  isXiaohao: 0
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 1
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0
+  SPConsume: 2.3
+  chargePower: 0.06
+  NextTimeChargePower: 0.06495113
+  bullet: {fileID: -5857922264732900333, guid: 78f391d961b38ed4993aed33787d0fd4, type: 3}

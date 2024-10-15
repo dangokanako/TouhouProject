@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79e427fff374a014d917c0ead43b0704, type: 3}
+  m_Name: Item_TheFristStep
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 33
+  itemName: "\u300E\u7B2C\u4E00\u6B65\u300F"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0, g: 0, b: 0, a: 1}
+  itemImage: {fileID: 21300000, guid: c84d3d0032d05d347873d550b6269364, type: 3}
+  price: 300
+  itemInfoText: "\u6750\u6599\u3002\\n\u7B26\u5361\u7CFB\u3002\\n\u53EF\u4EE5\u5411\u6307\u5B9A\u65B9\u5411\u53D1\u5C04\u51FA\u4E09\u679A\u521D\u7EA7\u5F39\u5E55\u3002(SP\u6D88\u8017:0.38)"
+  itemRemarkText: "\u4E24\u4EBA\u643A\u624B\u524D\u5F80\u5883\u754C\u7EBF\u7684\u672A\u77E5\u5F7C\u65B9\u3002"
+  isXiaohao: 0
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

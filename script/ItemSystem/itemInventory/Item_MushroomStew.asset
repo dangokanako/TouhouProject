@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebd9ca901d467724eb683639e42a17e3, type: 3}
+  m_Name: Item_MushroomStew
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 9
+  itemName: "\u83CC\u83C7\u6C64"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.49803925, g: 0.83921576, b: 0.98823535, a: 1}
+  itemImage: {fileID: 21300000, guid: 8a75bfa86286eb741acaf62c50e18425, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 40
+  itemInfoText: "\u4E0D\u53EF\u5806\u53E0\u3002\\n\u6D88\u8017\u54C1\u3002\\n\u7528\u51E0\u79CD\u8611\u83C7\u7096\u716E\u800C\u6210\u7684\u83CC\u83C7\u6C64\uFF0C\u4E0D\u4F46\u66F4\u52A0\u9C9C\u7F8E\uFF0C\u800C\u4E14\u66F4\u6709\u8425\u517B\u4E86\u3002\u98DF\u7528\u540E\u6062\u590D12\u70B9HP\u3002"
+  itemRemarkText: "\u201C\u554A\uFF1F\u665A\u996D\u53C8\u5403\u8611\u83C7\uFF1F\uFF01\u6211\u770B\u8D77\u6765\u6709\u90A3\u4E48\u559C\u6B22\u5403\u8611\u83C7\u5417\u201D\u2014\u2014\u96FE\u96E8\u9B54\u7406\u6C99"
+  isXiaohao: 1
+  isPassive: 0
+  isMaterial: 0
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

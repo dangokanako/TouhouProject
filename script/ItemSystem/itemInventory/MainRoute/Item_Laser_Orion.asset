@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2155ddd5b1c6bee488ccf5df0b78cf93, type: 3}
+  m_Name: Item_Laser_Orion
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 109
+  itemName: "(\u4EEE)\u5149\u661F\u300COrion Belt\u300D"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0, g: 0.33191752, b: 1, a: 1}
+  itemImage: {fileID: 1475945205, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  price: 1000
+  itemInfoText: "\u6301\u7EED\u65BD\u6CD5\u3002\\n\u6309\u4F4F\u540E\u6D88\u8017SP\u53D1\u5C04\u4E09\u5149\u4E4B\u529B\u3002\u7ED3\u5408\u4E86\u4E09\u79CD\u5149\u8292\u7684\u529B\u91CF\u3002(SP\u6D88\u80170.5/s)"
+  itemRemarkText: "\u201C\u8BA9\u4F60\u4EEC\u770B\u770B\u6700\u60CA\u4EBA\u7684\u5F39\u5E55\uFF01\u6700\u5F3A\u7684\u4E09\u5996\u7CBE\u56E2\u7ED3\u8D77\u6765\uFF0C\u5C31\u662F\u6240\u5411\u65E0\u654C\u7684\uFF01\u201D\u2014\u2014\u4E09\u6708\u7CBE(\u6CE8\uFF1A\u8FD9\u4EF6\u9053\u5177\u7279\u6548\u6CA1\u505A\u5B8C)"
+  isXiaohao: 0
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 1
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0
+  SPConsume: 0.5
+  LaserPrefab: {fileID: 1399974290026716854, guid: dc46db799ea98f64fb467c632dafbc9b, type: 3}
+  Laser: {fileID: 0}

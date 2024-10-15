@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 331058c1455f4f4488a1a5fecee4302c, type: 3}
+  m_Name: HMG1
+  m_EditorClassIdentifier: 
+  minX: -8.86
+  maxX: 9.03
+  minY: -5.63
+  maxY: 10.53
+  remark: HMG1

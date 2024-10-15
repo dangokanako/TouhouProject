@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2155ddd5b1c6bee488ccf5df0b78cf93, type: 3}
+  m_Name: Item_Laser_Star 1
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 117
+  itemName: "\u661F\u5149\u300CStar Laser\u300D"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0, g: 0.33191752, b: 1, a: 1}
+  itemImage: {fileID: 1475945205, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  price: 300
+  itemInfoText: "\u6301\u7EED\u65BD\u6CD5\u3002\\n\u6309\u4F4F\u540E\u6D88\u8017SP\u53D1\u5C04\u661F\u5149\u3002\u76F8\u8F83\u4E8E\u65E5\u5149\u548C\u6708\u5149\uFF0C\u661F\u5149\u80FD\u591F\u6E05\u9664\u5F39\u5E55\uFF0C\u5E76\u4E14\u66F4\u5FEB\u9020\u6210\u4F24\u5BB3\u3002(SP\u6D88\u80170.55/s)"
+  itemRemarkText: "\u201C\u8BF4\u5B9E\u8BDD\uFF0C\u65AF\u5854\u8428\u83F2\u96C5\u867D\u7136\u662F\u661F\u5149\u5996\u7CBE\u800C\u5DF2\uFF0C\u4F46\u6709\u70B9\u96BE\u4EE5\u7422\u78E8\u5979\u5728\u60F3\u4EC0\u4E48\u5462\u3002\u201D\u2014\u2014\u535A\u4E3D\u7075\u68A6"
+  isXiaohao: 0
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 1
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0
+  SPConsume: 0.55
+  LaserPrefab: {fileID: 3050301309263294064, guid: cbb928406a0d7e9418e4d8695676f240, type: 3}
+  Laser: {fileID: 0}

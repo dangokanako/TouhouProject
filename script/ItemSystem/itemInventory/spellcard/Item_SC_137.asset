@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc32ba2f4951a548ad5f34d8f5019f5, type: 3}
+  m_Name: Item_SC_137
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 122
+  itemName: "\u59CB\u7B26\u300CEphemerality 137\u300D"
+  isDuidie: 1
+  MaxDuidie: 32
+  itemColor: {r: 0.33946884, g: 0.32704395, b: 1, a: 1}
+  itemImage: {fileID: 125965099, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  price: 50
+  itemInfoText: "\u6750\u6599\u3002\\n\u6D88\u8017\u54C1\u3002\\n\u5411\u5468\u56F4\u6D12\u51FA\u9AD8\u901F\u7684\u5F39\u5E55\u3002"
+  itemRemarkText: "\u201C\u4E3A\u4EC0\u4E48\u662F137\u5462\uFF0C\u5404\u79CD\u5404\u79CD\u539F\u56E0\u5462\u3002\u201D\u2014\u2014\u7A17\u7530\u963F\u6C42"
+  isXiaohao: 1
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

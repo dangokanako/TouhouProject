@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47b5f9423337c4347b40c381a7bf3116, type: 3}
+  m_Name: Item_Yinyangyu_2
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 77
+  itemName: "\u300E\u516B\u767E\u5428\u9634\u9633\u7389\u300F"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.70980394, g: 0.17249447, b: 0.14509802, a: 1}
+  itemImage: {fileID: 21300000, guid: f5db671ec662f134a8ccb29ba03f4d83, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 400
+  itemInfoText: "\u6D88\u80171.3SP\uFF0C\u5411\u6307\u5B9A\u65B9\u5411\u4E22\u51FA\u4E00\u679A\u7A0D\u91CD\u7A0D\u5FEB\u7684\u9634\u9633\u7389\u3002"
+  itemRemarkText: "\u201C\u2026\u2026\u7075\u68A6\u4F60\u5F00\u5FC3\u5C31\u597D\u201D\u2014\u2014\u7389\u9020\u9B45\u987B\u4E38"
+  isXiaohao: 0
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

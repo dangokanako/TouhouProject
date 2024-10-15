@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed1520a0de5c1024fb76241c064a6eef, type: 3}
+  m_Name: Item_RoShiALieBa
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 97
+  itemName: "\u9732\u897F\u5A05\u5927\u5217\u5DF4"
+  isDuidie: 1
+  MaxDuidie: 32
+  itemColor: {r: 0.33946884, g: 0.32704395, b: 1, a: 1}
+  itemImage: {fileID: 456738636, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 100
+  itemInfoText: "\u6D88\u8017\u54C1\u3002\\n\u672C\u6B21\u63A2\u7D22\u4E2D\u9632\u5FA1\u63D0\u53470.2\u3002"
+  itemRemarkText: "\u636E\u8BF4\u662F\u4E00\u79CD\u6781\u5317\u4E4B\u56FD\u7684\u4F20\u7EDF\u98DF\u7269\uFF0C\u4F46\u8FD9\u4E48\u786C\u8981\u600E\u4E48\u5403\u554A\u2026\u2026"
+  isXiaohao: 1
+  isPassive: 0
+  isMaterial: 0
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

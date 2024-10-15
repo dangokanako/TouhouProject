@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1d2607ced0b2ba48ba05e2a50e710b7, type: 3}
+  m_Name: Item_AddLostPoint
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 43
+  itemName: "\u8D22\u7978\u300C\u96C1\u8FC7\u62D4\u6BDB\u300D"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.9339623, g: 0.8976603, b: 0, a: 1}
+  itemImage: {fileID: 935472906, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  price: 0
+  itemInfoText: "\u5347\u7EA7\u54C1\u3002\\n\u6C38\u4E45\u51CF\u5C115%\u7684\u666E\u901AP\u70B9\u6B7B\u4EA1\u635F\u5931\u3002"
+  itemRemarkText: "\u201C\u7075\u68A6\u4F60\u662F\u4E0D\u662F\u5BF9\u8FD9\u4E2A\u7B26\u5361\u514D\u75AB\u554A~\u201D\u2014\u2014\u96FE\u96E8\u9B54\u7406\u6C99"
+  isXiaohao: 1
+  isPassive: 0
+  isMaterial: 0
+  isChargeWeapon: 0
+  isUseImmediately: 1
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

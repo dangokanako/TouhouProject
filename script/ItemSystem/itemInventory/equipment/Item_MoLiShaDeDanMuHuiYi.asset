@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01eb12efda9ae9f4ba1b1343ef3c1a5a, type: 3}
+  m_Name: Item_MoLiShaDeDanMuHuiYi
+  m_EditorClassIdentifier: 
+  itemSlot: 1
+  itemId: 85
+  itemName: "\u9B54\u7406\u6C99\u7684\u5F39\u5E55\u56DE\u5FC6"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 1, g: 0.19496846, b: 0.19496846, a: 1}
+  itemImage: {fileID: 904194830, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 100
+  itemInfoText: 
+  itemRemarkText: "\u91CC\u9762\u8BE6\u7EC6\u5730\u8BB0\u8F7D\u4E86\u8BB8\u591A\u534E\u4E3D\u5730\u5F39\u5E55\u4EE5\u53CA\u5410\u69FD\u3002"
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 0
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 1
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85232362c5a942f429ae7afcab572ecf, type: 3}
+  m_Name: Item_MarisaMono
+  m_EditorClassIdentifier: 
+  itemSlot: 1
+  itemId: 32
+  itemName: "\u9B54\u7406\u6C99\u7684\u4FE1\u7269"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0, g: 0, b: 0, a: 1}
+  itemImage: {fileID: 21300000, guid: 528ae5c2b5d71094785536e80ad8faeb, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 200
+  itemInfoText: 
+  itemRemarkText: "\u4E00\u9876\u9B54\u6CD5\u5E08\u7684\u5E3D\u5B50\uFF0C\u5F88\u7ECF\u5178\u3002\u6709\u4E00\u4E2A\u767D\u8272\u8774\u8776\u7ED3\uFF0C\u5F88\u597D\u770B\u3002 "
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 0
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 1
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f13a988832a94e45a4c793fa2f83ee6, type: 3}
+  m_Name: Item_PassiveSC_Fengmozhen
+  m_EditorClassIdentifier: 
+  itemSlot: 2
+  itemId: 67
+  itemName: "\u68A6\u7B26\u300C\u5C01\u9B54\u9635\u300D"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.6792453, g: 0, b: 0.45540306, a: 1}
+  itemImage: {fileID: 21300000, guid: a60bca59f25d57c4eac7939c3e4398f4, type: 3}
+  BigItemImage: {fileID: 21300000, guid: 4642e0de5858f0e4d8b02cb276bdb178, type: 3}
+  price: 15
+  itemInfoText: 
+  itemRemarkText: "\u770B\u4E0D\u89C1\u602A\u4E86\uFF01\u56FE\u5C42\uFF01\u518D\u5F80\u4E0B\u4E00\u5C42\u554A\uFF01"
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 1
+  isEquipmentSCLevel: 1
+  maxEquipmentSCLevel: 0
+  damagerPrefab: {fileID: 3641106227657528162, guid: 175d74ad9f7ecd9449cdcff249e8b66c, type: 3}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88f7a91adc6aff1429a1ca5c878e0b3a, type: 3}
+  m_Name: Item_FengshenshaonvFeather
+  m_EditorClassIdentifier: 
+  itemSlot: 3
+  itemId: 71
+  itemName: "\u98CE\u795E\u5C11\u5973\u4E4B\u7FBD"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.14779866, g: 0.4656788, b: 1, a: 1}
+  itemImage: {fileID: -1163632254, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 100
+  itemInfoText: 
+  itemRemarkText: "\u201C\u53EA\u662F\u7FBD\u6BDB\u800C\u5DF2\u5594\u3002\u4E0D\u8981\u5F53\u6210\u5B9D\u8D1D\u5582\u3002\u201D\u2014\u2014\u5C04\u547D\u4E38\u6587"
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 0
+  isUseImmediately: 0
+  hasQuality: 1
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

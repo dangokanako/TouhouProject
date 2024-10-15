@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e5963a59f9737844b444dbbeefd4e87, type: 3}
+  m_Name: Item_Kaohongshu
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 16
+  itemName: "\u70E4\u7EA2\u85AF"
+  isDuidie: 1
+  MaxDuidie: 32
+  itemColor: {r: 0.7830189, g: 0.48046365, b: 0, a: 1}
+  itemImage: {fileID: 21300000, guid: f6b4e1df46b49f3438075a0591bfde8a, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 100
+  itemInfoText: "\u6D88\u8017\u54C1\u3002\\n\u672C\u6B21\u63A2\u7D22\u63D0\u53472\u70B9\u6700\u5927\u751F\u547D\u503C\u3002"
+  itemRemarkText: "\u6696\u6696\u7684\uFF0C\u5F88\u597D\u5403\u3002\\n\"\u679C\u7136\uFF0C\u8BF4\u8D77\u79CB\u5929\u7684\u8BDD\uFF0C\u8FD8\u662F\u70E4\u7EA2\u85AF\u5462\uFF01\"\u2014\u2014\u79CB\u7A70\u5B50"
+  isXiaohao: 1
+  isPassive: 0
+  isMaterial: 0
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

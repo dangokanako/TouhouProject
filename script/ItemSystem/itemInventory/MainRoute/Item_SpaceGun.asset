@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 746c60ddd2e546e4bbb58ab55ea0e665, type: 3}
+  m_Name: Item_SpaceGun
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 6
+  itemName: "\u300E\u8D77\u70B9\u300F"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0, g: 0, b: 0, a: 1}
+  itemImage: {fileID: 21300000, guid: b6c456310ae9146468da7103f75b231c, type: 3}
+  price: 120
+  itemInfoText: "\u6750\u6599\u3002\\n\u7B26\u5361\u7CFB\u3002\\n\u53EF\u4EE5\u5411\u6307\u5B9A\u65B9\u5411\u53D1\u5C04\u51FA3\u679A\u57FA\u7840\u5F39\u5E55\u3002(SP\u6D88\u8017:0.3)"
+  itemRemarkText: "\u201C\u672A\u6765\u7684\u53EF\u80FD\u6027\u662F\u65E0\u9650\u7684\u5594\u201D\u2014\u2014\u5B87\u4F50\u89C1\u83B2\u5B50"
+  isXiaohao: 0
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18bfadf15b71564b88a08aa5610f82f, type: 3}
+  m_Name: Item_SkillPoint_139
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 1139
+  itemName: "\u654F\u6377 \u2014 \u300A\u64E6\u5F39\u7684\u795D\u798F\u300BI"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.4315006, g: 0.8396226, b: 0.4000089, a: 1}
+  itemImage: {fileID: 21300000, guid: de171370d95da2446ad69f7d75522689, type: 3}
+  price: 0
+  itemInfoText: "1\u6280\u80FD\u70B9\u3002\\n\u5B66\u4E60\u540E\uFF0C\u6BCF\u56DB\u79D2\u949F\u83B7\u5F97\u4E00\u6B21\u4E0D\u6D88\u8017\u4F53\u529B\u7A7A\u683C\u7A81\u8FDB\u7684\u673A\u4F1A\u3002"
+  itemRemarkText: "\u81F3\u4E8E\u4EC0\u4E48\u65F6\u5019CD\u80FD\u8F6C\u597D\u5176\u5B9E\u6211\u6CA1\u505A\u81EA\u5DF1\u611F\u89C9\u4E00\u4E0B\u5427\u3002"
+  isXiaohao: 1
+  isPassive: 0
+  isMaterial: 0
+  isChargeWeapon: 0
+  isUseImmediately: 1
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

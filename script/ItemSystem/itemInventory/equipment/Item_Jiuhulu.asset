@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2749ae294e077ee42a03f01d0a6b2388, type: 3}
+  m_Name: Item_Jiuhulu
+  m_EditorClassIdentifier: 
+  itemSlot: 3
+  itemId: 70
+  itemName: "\u7FE0\u9999\u7684\u9152\u846B\u82A6"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.8679245, g: 0.02183451, b: 0.18241939, a: 1}
+  itemImage: {fileID: -1995580034, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  price: 100
+  itemInfoText: 
+  itemRemarkText: "\u201C\u5C31\u7B97\u662F\u9B3C\u4E5F\u8BF7\u9002\u5F53\u996E\u9152\u3002\u201D\u2014\u2014\u516B\u610F\u6C38\u7433"
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 0
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 1
+  Quality: 1
+  itemCiti: 1
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

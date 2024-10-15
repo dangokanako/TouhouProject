@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbaa9a0b80905674a8dee33f4b0a64a8, type: 3}
+  m_Name: Item_Broom
+  m_EditorClassIdentifier: 
+  itemSlot: 6
+  itemId: 8
+  itemName: "\u9B54\u7406\u6C99\u7684\u626B\u5E1A"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.33577648, g: 0.8301887, b: 0.29369885, a: 1}
+  itemImage: {fileID: 21300000, guid: 0f743036f25573949bb6cf0756ce6a1d, type: 3}
+  price: 100
+  itemInfoText: "\u88C5\u5907\u3002\\n\u6301\u6709\u65F6\u53EF\u4EE5\u63D0\u4F9B50%\u7684\u5954\u8DD1\u901F\u5EA6\uFF0C
+    \u4EE5\u53CA10%\u7684\u79FB\u52A8\u901F\u5EA6\uFF0C\u4F46\u4F1A\u589E\u52A050%\u7684\u4F53\u529B\u6D88\u8017"
+  itemRemarkText: "\"\u7D27\u6025\u60C5\u51B5\u4E0B\u8FD8\u53EF\u4EE5\u6253\u626B\u536B\u751F\u5462\uFF01\"\u2014\u2014\u96FE\u96E8\u9B54\u7406\u6C99"
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 1
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 1
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

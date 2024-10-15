@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1577c708d686884bb74ebefdaa3a926, type: 3}
+  m_Name: ItemSakuyaSC_1
+  m_EditorClassIdentifier: 
+  itemId: 3
+  itemName: "\u79D8\u6280\u300C\u64CD\u5F04\u73A9\u5076\u300D"
+  isDuidie: 1
+  MaxDuidie: 20
+  itemColor: {r: 0, g: 0.41725385, b: 0.6981132, a: 1}
+  itemImage: {fileID: 21300000, guid: 8056a2f8dcd6b1842b322e079b0238a5, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 15
+  itemInfoText: "\u6D88\u8017\u54C1\u3002\\n\u5E7F\u8303\u56F4\u5185\u6492\u51FA\u98DE\u5200\uFF0C\u4E4B\u540E\u4E00\u9F50\u53D8\u6362\u65B9\u5411\u5411\u654C\u4EBA\u653B\u51FB\u3002"
+  itemRemarkText: "\u201C\u9119\u4EBA\u5F88\u559C\u6B22\u8FD9\u5F20\u7B26\u5361\uFF0C\u8FD8\u8BF7\u5584\u52A0\u4F7F\u7528\u201D\u2014\u2014\u5341\u516D\u591C\u54B2\u591C"
+  isXiaohao: 1
+  isPassive: 0
+  isMaterial: 1
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

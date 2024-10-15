@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea000c186f60cd64d98661c97c7ebb43, type: 3}
+  m_Name: Item_PassiveSC_Fuzha
+  m_EditorClassIdentifier: 
+  itemSlot: 2
+  itemId: 68
+  itemName: "\u5FA1\u672D\u300C\u4E0D\u52A8\u7684\u9000\u9B54\u7B26\u300D"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.14779866, g: 0.4656788, b: 1, a: 1}
+  itemImage: {fileID: 21300000, guid: 767845256f9b0f941baddcd2819da87f, type: 3}
+  BigItemImage: {fileID: 21300000, guid: 67266b372fffe3d47b4f195fbaba6d3c, type: 3}
+  price: 15
+  itemInfoText: 
+  itemRemarkText: "\u867D\u7136\u653B\u51FB\u8303\u56F4\u5F88\u5C0F\u4F46\u4F24\u5BB3\u5176\u5B9E\u2026\u2026\u4E5F\u4E0D\u9AD8\u3002"
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 1
+  isEquipmentSCLevel: 1
+  maxEquipmentSCLevel: 0
+  damager: {fileID: -8572022142923636766, guid: 6ab43bca169955a41aac6cef076c9b96, type: 3}

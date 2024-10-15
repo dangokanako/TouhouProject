@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a48c01b907c93624298de572422b16b6, type: 3}
+  m_Name: Item_PassiveSC_Suika
+  m_EditorClassIdentifier: 
+  itemSlot: 2
+  itemId: 66
+  itemName: "\u7FE0\u7B26\u300C\u590F\u65E5\u7684\u897F\u74DC\u5200\u300D"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.6509434, g: 0.027507085, b: 0, a: 1}
+  itemImage: {fileID: 21300000, guid: 8e38c95d9aac8914fb0fe27a3a99d540, type: 3}
+  BigItemImage: {fileID: 21300000, guid: a0ee609d975c48a43bb41089bb45422b, type: 3}
+  price: 15
+  itemInfoText: 
+  itemRemarkText: "\u201C\u90FD\u8BF4\u4E86\u6211\u548C\u897F\u74DC\u4E00\u70B9\u5173\u7CFB\u4E5F\u6CA1\u6709\uFF01\uFF01\uFF01\u201D\u2014\u2014\u4F0A\u5439\u7FE0\u9999"
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 1
+  isEquipmentSCLevel: 1
+  maxEquipmentSCLevel: 0
+  damager: {fileID: 326235533167193551, guid: d3286bbed5456c24ab3e922a695ce89e, type: 3}

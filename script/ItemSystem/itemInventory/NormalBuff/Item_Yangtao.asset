@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5ff9581c49416241b56f23d119f941e, type: 3}
+  m_Name: Item_Yangtao
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 103
+  itemName: "\u6768\u6843"
+  isDuidie: 1
+  MaxDuidie: 32
+  itemColor: {r: 0, g: 1, b: 0.1658926, a: 1}
+  itemImage: {fileID: 745795100, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  price: 100
+  itemInfoText: "\u6D88\u8017\u54C1\u3002\\n\u672C\u6B21\u63A2\u7D22\u4E2D\u56DE\u907F\u7387\u589E\u52A02%\u3002"
+  itemRemarkText: "\u201C\u5982\u679C\u6309\u7279\u5B9A\u65B9\u5411\u5207\u5F00\u7684\u8BDD\uFF0C\u4F1A\u662F\u4E94\u89D2\u661F\u5F62\u72B6\u7684\u5594\uFF0C\u5F88\u795E\u5947\u7684\u6C34\u679C\u5427\uFF01\u201D\u2014\u2014\u96FE\u96E8\u9B54\u7406\u6C99"
+  isXiaohao: 1
+  isPassive: 0
+  isMaterial: 0
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

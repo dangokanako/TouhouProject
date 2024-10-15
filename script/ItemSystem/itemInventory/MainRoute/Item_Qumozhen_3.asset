@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84820da333f30be4aa97e28d83f7e185, type: 3}
+  m_Name: Item_Qumozhen_3
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 92
+  itemName: "\u300E\u5929\u7F57\u5730\u7F51\u7684\u9A71\u9B54\u9488\u300F"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.8018868, g: 0, b: 0.67394334, a: 1}
+  itemImage: {fileID: 21300000, guid: b6c456310ae9146468da7103f75b231c, type: 3}
+  price: 900
+  itemInfoText: "\u6301\u7EED\u65BD\u6CD5\u3002\\n\u6309\u4F4F\u540E\u6D88\u8017\u4E2D\u91CFSP\u53D1\u5C04\u5927\u91CF\u5FEB\u901F\u7684\u9A71\u9B54\u9488\u3002(SP\u6D88\u80171/s,\u5F39\u5E55\u53D1\u5C04\u5E73\u5747\u6D88\u80170.13)"
+  itemRemarkText: "\u201C\u8FD9\u4E2A\u505A\u5F97\u771F\u4E0D\u9519\u5462\uFF0C\u6CA1\u60F3\u5230\u4F60\u4F1A\u6709\u8FD9\u79CD\u624D\u80FD\u201D\u2014\u2014\u535A\u4E3D\u7075\u68A6"
+  isXiaohao: 0
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 1
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0
+  SPConsume: 0.9
+  chargePower: 0.09
+  bullet: {fileID: 9008029727664371335, guid: 10f509203fb480f468aefd9e3247712c, type: 3}
+  NextTimeChargePower: 0

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d034589f9d1a142b58426119a7a94f, type: 3}
+  m_Name: Item_Power1
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 93
+  itemName: "\u5FAE\u5F31\u7684\u81EA\u7136\u4E4B\u529B"
+  isDuidie: 1
+  MaxDuidie: 32
+  itemColor: {r: 0.6509434, g: 0.6140041, b: 0.22516905, a: 1}
+  itemImage: {fileID: -717057921, guid: d3dccc2cc8ec0bb45906db5873dd05dd, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 100
+  itemInfoText: "\u53EA\u662F\u6750\u6599\u3002\\n\u4ECE\u81EA\u7136\u4E4B\u529B\u63D0\u70BC\u800C\u6765\u7684\u5FAE\u5F31\u529B\u91CF\uFF0C\u5728\u5F88\u591A\u5730\u65B9\u90FD\u4F1A\u6709\u7528\u5904\u3002"
+  itemRemarkText: "\u201C\u7B26\u5361\u7684\u5347\u7EA7\u548C\u5408\u6210\uFF0C\u4E4B\u7C7B\u7684\u4F1A\u9700\u8981\u5F88\u591A\u3002\u8BF7\u659F\u914C\u540E\u59A5\u5584\u5229\u7528\u3002\u201D\u2014\u2014\u4E0A\u767D\u6CFD\u6167\u97F3"
+  isXiaohao: 0
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

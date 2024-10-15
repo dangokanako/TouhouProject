@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff125432c3a428e4f84cf4049e49a128, type: 3}
+  m_Name: Item_RedTea
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 14
+  itemName: "\u857E\u54AA\u7684\u7EA2\u8336"
+  isDuidie: 1
+  MaxDuidie: 32
+  itemColor: {r: 1, g: 0.4313832, b: 0, a: 1}
+  itemImage: {fileID: 21300000, guid: 9311dced5bbb0dd41848cf478c79f7ff, type: 3}
+  price: 100
+  itemInfoText: "\u6D88\u8017\u54C1\u3002\\n\u672C\u6B21\u63A2\u7D22\u4E2D\u4F53\u529B\u6700\u5927\u503C\u589E\u52A00.5\u3002"
+  itemRemarkText: "\"\u7EA2\u8336\u8981\u752895\u2103\u7684\u6C34\u6CE1\uFF0C\u8FD9\u79CD\u6389\u843D\u5728\u5730\u4E0A\u7684\u7EA2\u8336\uFF0C\u7075\u68A6\u4F60\u5C31\u81EA\u5DF1\u559D\u5427\"\u2014\u2014\u857E\u7C73\u8389\u4E9A\xB7\u65AF\u5361\u96F7\u7279"
+  isXiaohao: 1
+  isPassive: 0
+  isMaterial: 0
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

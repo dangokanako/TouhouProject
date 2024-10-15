@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e7af8a08eb16f841a528fe4c6cc15a7, type: 3}
+  m_Name: Item_FushichouFeather
+  m_EditorClassIdentifier: 
+  itemSlot: 3
+  itemId: 50
+  itemName: "\u4E0D\u6B7B\u9E1F\u4E4B\u7FBD"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.8396226, g: 0.0924112, b: 0.12141957, a: 1}
+  itemImage: {fileID: -1163632254, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 100
+  itemInfoText: 
+  itemRemarkText: "\u4ECE\u4E0D\u6B7B\u9E1F\u8EAB\u4E0A\u6389\u843D\u7684\u7FBD\u6BDB\uFF0C\u80FD\u4ECE\u4E2D\u611F\u53D7\u5230\u6781\u5176\u5FAE\u5F31\u7684\u529B\u91CF\u3002"
+  isXiaohao: 0
+  isPassive: 1
+  isMaterial: 1
+  isUseImmediately: 0
+  hasQuality: 1
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

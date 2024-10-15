@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1e6bfdce94c44f4bb1dc7d3dba3995d, type: 3}
+  m_Name: Item_Bingjingzhijian 1
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 126
+  itemName: "\u51B0\u7CBE\u4E4B\u5251"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0.14779866, g: 0.4656788, b: 1, a: 1}
+  itemImage: {fileID: 21300000, guid: 819abcdc1f1e38745b4e7a1d129b1d66, type: 3}
+  price: 160
+  itemInfoText: "\u6B66\u5668\u3002\\n\u9020\u62108\u70B9\u9510\u5668\u4F24\u5BB3\u3002(\u6B66\u5668\u901F\u5EA6:17,SP\u6D88\u8017:0.45)"
+  itemRemarkText: "\u201C\u6E56\u8FB9\u67D0\u4E2A\u5996\u602A\u968F\u4FBF\u51BB\u51FA\u6765\u7684\u2026\u2026\u522B\u62B1\u6709\u592A\u5927\u671F\u5F85\u5C31\u662F\u4E86\u2026\u2026\u201D\u2014\u2014\u535A\u4E3D\u7075\u68A6"
+  isXiaohao: 0
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0
+  swordObject: {fileID: -1305971566553509553, guid: 60ac1f688d0bb2844bfd2b1f97fb8fb4, type: 3}
+  attackSpeed: 17
+  attackDistance: 0.55
+  weaponCD: 0
+  spCost: 0.45
+  attackAngle: 0
+  autoUse: 0
+  damage: 8

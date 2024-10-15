@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e528106fe55a1224f94555f08da0b476, type: 3}
+  m_Name: Item_IceBlock
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 4
+  itemName: "\u742A\u9732\u8BFA\u7684\u51B0\u5757"
+  isDuidie: 1
+  MaxDuidie: 32
+  itemColor: {r: 0, g: 0.45882353, b: 0.7647059, a: 1}
+  itemImage: {fileID: 21300000, guid: 3399c8abd0e92a54d9bbe9d649e7fec8, type: 3}
+  BigItemImage: {fileID: 0}
+  price: 9
+  itemInfoText: "\u6750\u6599\u3002\\n\u6D88\u8017\u54C1\u3002\\n\u6563\u53D1\u7740\u9635\u9635\u51BB\u6C14\u3002\u4F7F\u7528\u540E\u6062\u590D0.99\u70B9SP\u3002\u5728SP\u4F4E\u4E0B\u65F6\u4F1A\u4ECE\u5FEB\u6377\u680F\u81EA\u52A8\u4F7F\u7528\u3002 "
+  itemRemarkText: "\u96FE\u4E4B\u6E56\u571F\u7279\u4EA7\u3002"
+  isXiaohao: 1
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 0
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0

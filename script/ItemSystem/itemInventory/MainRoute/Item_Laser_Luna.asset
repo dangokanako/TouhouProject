@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2155ddd5b1c6bee488ccf5df0b78cf93, type: 3}
+  m_Name: Item_Laser_Luna
+  m_EditorClassIdentifier: 
+  itemSlot: 0
+  itemId: 107
+  itemName: "(\u4EEE)\u6708\u5149\u300CMoon Stillness\u300D"
+  isDuidie: 0
+  MaxDuidie: 0
+  itemColor: {r: 0, g: 0.33191752, b: 1, a: 1}
+  itemImage: {fileID: 1475945205, guid: e952f1e771e569049a22a857347aaf53, type: 3}
+  price: 150
+  itemInfoText: "\u6301\u7EED\u65BD\u6CD5\u3002\\n\u6309\u4F4F\u540E\u6D88\u8017SP\u53D1\u5C04\u6708\u5149\u3002\u76F8\u8F83\u4E8E\u65E5\u5149\u548C\u661F\u5149\uFF0C\u6708\u5149\u80FD\u591F\u6D88\u8017\u66F4\u5C11\u7684SP\u3002(SP\u6D88\u80170.3/s)"
+  itemRemarkText: "\u201C\u4E0D\u662F\u53EB\u9759\u8C27\u7684\u6708\u4E4B\u5149\u7684\u5417\uFF1F\u4F46\u90A3\u4E2A\u6708\u5149\u5996\u7CBE\u3001\u9732\u5A1C\u5207\u9732\u5FB7\u4E5F\u4E0D\u600E\u4E48\u5B89\u5206\u7684\u6837\u5B50\u554A\u3002\u201D\u2014\u2014\u535A\u4E3D\u7075\u68A6 "
+  isXiaohao: 0
+  isPassive: 0
+  isMaterial: 1
+  isChargeWeapon: 1
+  isUseImmediately: 0
+  hasQuality: 0
+  Quality: 0
+  itemCiti: 0
+  isEquipmentSC: 0
+  isEquipmentSCLevel: 0
+  maxEquipmentSCLevel: 0
+  SPConsume: 0.3
+  LaserPrefab: {fileID: 3050301309263294064, guid: a6cd3809bdb0f4c448003bd1f4175b24, type: 3}
+  Laser: {fileID: 0}
